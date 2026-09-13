@@ -1,7 +1,7 @@
 # 835. Image Overlap
 
 **Difficulty**: Medium  
-**Link**: [https://leetcode.com/problems/image-overlap/](https://leetcode.com/problems/image-overlap/)
+**Link**: [https://leetcode.com/problems/image-overlap/submissions/2140365818/](https://leetcode.com/problems/image-overlap/submissions/2140365818/)
 
 ---
 
@@ -16,16 +16,13 @@ Note also that a translation does not include any kind of rotation. Any 1 bits t
 Return the largest possible overlap.
 
  
-
 Example 1:
 
 Input: img1 = [[1,1,0],[0,1,0],[0,1,0]], img2 = [[0,0,0],[0,1,1],[0,0,1]]
 Output: 3
 Explanation: We translate img1 to right by 1 unit and down by 1 unit.
 
-
 The number of positions that have a 1 in both images is 3 (shown in red).
-
 
 
 
@@ -42,11 +39,11 @@ Output: 0
 
 
  
-
 Constraints:
 
-n == img1.length == img1[i].length
-n == img2.length == img2[i].length
-1 <= n <= 30
-img1[i][j] is either 0 or 1.
-img2[i][j] is either 0 or 1.
+
+	n == img1.length == img1[i].length
+	n == img2.length == img2[i].length
+	1 <= n <= 30
+	img1[i][j] is either 0 or 1.
+	img2[i][j] is either 0 or 1.
