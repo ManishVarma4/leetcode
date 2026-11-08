@@ -1,7 +1,7 @@
 # 1267. Count Servers that Communicate
 
 **Difficulty**: Medium  
-**Link**: [https://leetcode.com/problems/count-servers-that-communicate/submissions/2191837976/](https://leetcode.com/problems/count-servers-that-communicate/submissions/2191837976/)
+**Link**: [https://leetcode.com/problems/count-servers-that-communicate/submissions/2191839260/](https://leetcode.com/problems/count-servers-that-communicate/submissions/2191839260/)
 
 ---
 
